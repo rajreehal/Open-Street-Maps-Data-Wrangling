@@ -1,0 +1,7 @@
+References
+
+1. https://docs.python.org/2/library/re.html
+2. https://discussions.udacity.com/t/memory-error-nodes-csv-to-sql-database/186806/10
+3. https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+4. https://en.wikipedia.org/wiki/Canada_Post
+5. http://www.cpso.on.ca/public-register/all-doctors-search

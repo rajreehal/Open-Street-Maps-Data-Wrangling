@@ -1,0 +1,4 @@
+The OSM dataset I have chosen is of my current hometown, Toronto, Ontario. I chose this location because I'd like to learn more about my hometown and would like to teach others more about it. Also I hope to move on from my boring government job to start my carrer as a data scientist in this great city!
+
+The dataset was exported as a metro extract from Mapzen:
+https://mapzen.com/data/metro-extracts/metro/toronto_canada/
